@@ -30,9 +30,9 @@ p{
 
 footer{
     background-color: maroon;
+    text-align: center;
 }
 
 small{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
 }
